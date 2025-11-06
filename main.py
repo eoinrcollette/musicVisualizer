@@ -10,7 +10,7 @@ def main():
     visualizer = Visualizer()
     
     # Settings
-    audio_file = "sample_song.wav"#enter song file here 
+    audio_file = "rockman.wav"#enter song file here 
     chunk_size = 1024
     
     try:
